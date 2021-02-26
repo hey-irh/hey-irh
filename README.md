@@ -4,4 +4,4 @@ I am a newly trained full stack software developer with experience creating appl
 
 📫 Reach me at https://www.linkedin.com/in/isabel-holland-aa7817129/
 
-🔭 Currently working on: https://github.com/hey-irh/Billionaire-Taxer
+🔭 Currently working on: https://github.com/hey-irh/Billionaire-Taxer & https://github.com/jessstubenbord/Tideform
